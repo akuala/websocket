@@ -1,149 +1,72 @@
-Aprovadas - 148
-Aprovado! Host: vivo360.vivo.com.br Ip: vivo360.vivo 
-Aprovado! Host: sigitm3.vivo.com.br Ip: sigitm3.vivo 
-Aprovado! Host: vivomusica.vivo.com.br Ip: vivomusica.vivo 
-Aprovado! Host: www.vivomusica.vivo.com.br Ip: www.vivomusica.vivo 
-Aprovado! Host: portalsmartgerencia.vivo.com.br Ip: portalsmartgerencia.vivo 
-Aprovado! Host: vigia.vivo.com.br Ip: vigia.vivo 
-Aprovado! Host: movimenta.vivo.com.br Ip: movimenta.vivo 
-Aprovado! Host: web.vivo.com.br Ip: web.cname.vivo.com.br.  
-Aprovado! Host: vpoweb.vivo.com.br Ip: vpoweb.vivo 
-Aprovado! Host: gedoc.vivo.com.br Ip: gedoc.cname.vivo.com.br.  
-Aprovado! Host: vc.vivo.com.br Ip: vivomaissaudavel.com.br.  
-Aprovado! Host: portaljud.vivo.com.br Ip: portaljud.vivo 
-Aprovado! Host: lojaonline.vivo.com.br Ip: cname.vivo.com.br.  
-Aprovado! Host: atendimentoonline.vivo.com.br Ip: atendimentoonline.vivo 
-Aprovado! Host: assine.vivo.com.br Ip: assine.vivo 
-Aprovado! Host: www.appstore.vivo.com.br Ip: www.appstore.vivo 
-Aprovado! Host: cdi.vivo.com.br Ip: cdi.vivo 
-Aprovado! Host: aceitedigital.vivo.com.br Ip: aceitedigital.vivo 
-Aprovado! Host: siscom.vivo.com.br Ip: siscom.vivo 
-Aprovado! Host: sigitm.vivo.com.br Ip: sigitm.vivo 
-Aprovado! Host: login.vivo.com.br Ip: login.vivo 
-Aprovado! Host: protecao.vivo.com.br Ip: protecao.vivo 
-Aprovado! Host: legado.vivo.com.br Ip: legado.vivo 
-Aprovado! Host: continueconectado.vivo.com.br Ip: continueconectado.vivo 
-Aprovado! Host: vivocorp-parceiro.vivo.com.br Ip: vivocorp-parceiro.vivo 
-Aprovado! Host: meuvivo.vivo.com.br  
-Aprovado! Host: meuvivofixo.vivo.com.br Ip: meuvivofixo.vivo 
-Aprovado! Host: meuvivoapp.vivo.com.br Ip: meuvivoapp.vivo 
-Aprovado! Host: vivovendas.vivo.com.br Ip: vivovendas.vivo 
-Aprovado! Host: meuvivoempresas.vivo.com.br Ip: meuvivoempresas.vivo 
-Aprovado! Host: vms.vivo.com.br Ip: vivomaissaudavel.com.br.  
-Aprovado! Host: servicos.vivo.com.br Ip: servicos.vivo 
-Aprovado! Host: planos.vivo.com.br Ip: cname.vivo.com.br.  
-Aprovado! Host: extranet.vivo.com.br Ip: extranet.vivo 
-Aprovado! Host: autenticaint.vivo.com.br Ip: autenticaint.cname.vivo.com.br.  
-Aprovado! Host: oauthtv.vivo.com.br Ip: oauthtv.vivo 
-Aprovado! Host: m5.app.vivo.com.br Ip: m5.app.vivo 
-Aprovado! Host: web-aceitedigital.vivo.com.br Ip: web-aceitedigital.vivo 
-Aprovado! Host: premium-vivo360.vivo.com.br Ip: premium-vivo360.vivo 
-Aprovado! Host: Vigia.vivo.com.br Ip: vigia.vivo 
-Aprovado! Host: api.vivo.com.br Ip: api.vivo 
-Aprovado! Host: api.app.vivo.com.br Ip: api.app.vivo 
-Aprovado! Host: vivo360.vivo.com.br Ip: vivo360.vivo 
-Aprovado! Host: assine.vivo.com.br Ip: assine.vivo 
-Aprovado! Host: lojaonline.vivo.com.br Ip: cname.vivo.com.br.  
-Aprovado! Host: vms.vivo.com.br Ip: vivomaissaudavel.com.br.  
-Aprovado! Host: vigia.vivo.com.br Ip: vigia.vivo 
-Aprovado! Host: vivovendas.vivo.com.br Ip: vivovendas.vivo 
-Aprovado! Host: meuvivo.vivo.com.br  
-Aprovado! Host: protecao.vivo.com.br Ip: protecao.vivo 
-Aprovado! Host: autenticaint.vivo.com.br Ip: autenticaint.cname.vivo.com.br.  
-Aprovado! Host: gedoc.vivo.com.br Ip: gedoc.cname.vivo.com.br.  
-Aprovado! Host: vivocorp-parceiro.vivo.com.br Ip: vivocorp-parceiro.vivo 
-Aprovado! Host: login.vivo.com.br Ip: login.vivo 
-Aprovado! Host: www.vivomusica.vivo.com.br Ip: www.vivomusica.vivo 
-Aprovado! Host: portaljud.vivo.com.br Ip: portaljud.vivo 
-Aprovado! Host: legado.vivo.com.br Ip: legado.vivo 
-Aprovado! Host: meuvivofixo.vivo.com.br Ip: meuvivofixo.vivo 
-Aprovado! Host: meuvivoempresas.vivo.com.br Ip: meuvivoempresas.vivo 
-Aprovado! Host: siscom.vivo.com.br Ip: siscom.vivo 
-Aprovado! Host: vc.vivo.com.br Ip: vivomaissaudavel.com.br.  
-Aprovado! Host: aceitedigital.vivo.com.br Ip: aceitedigital.vivo 
-Aprovado! Host: sigitm.vivo.com.br Ip: sigitm.vivo 
-Aprovado! Host: servicos.vivo.com.br Ip: servicos.vivo 
-Aprovado! Host: vivomusica.vivo.com.br Ip: vivomusica.vivo 
-Aprovado! Host: sigitm3.vivo.com.br Ip: sigitm3.vivo 
-Aprovado! Host: extranet.vivo.com.br Ip: extranet.vivo 
-Aprovado! Host: vpoweb.vivo.com.br Ip: vpoweb.vivo 
-Aprovado! Host: planos.vivo.com.br Ip: cname.vivo.com.br.  
-Aprovado! Host: web.vivo.com.br Ip: web.cname.vivo.com.br.  
-Aprovado! Host: autenticaint.vivo.com.br Ip: autenticaint.cname.vivo.com.br.  
-Aprovado! Host: meuvivofixo.vivo.com.br Ip: meuvivofixo.vivo 
-Aprovado! Host: lojaonline.vivo.com.br Ip: cname.vivo.com.br.  
-Aprovado! Host: gedoc.vivo.com.br Ip: gedoc.cname.vivo.com.br.  
-Aprovado! Host: meuvivo.vivo.com.br  
-Aprovado! Host: vivo360.vivo.com.br Ip: vivo360.vivo 
-Aprovado! Host: assine.vivo.com.br Ip: assine.vivo 
-Aprovado! Host: login.vivo.com.br Ip: login.vivo 
-Aprovado! Host: vivocorp-parceiro.vivo.com.br Ip: vivocorp-parceiro.vivo 
-Aprovado! Host: autenticaint.vivo.com.br Ip: autenticaint.cname.vivo.com.br.  
-Aprovado! Host: vivovendas.vivo.com.br Ip: vivovendas.vivo 
-Aprovado! Host: legado.vivo.com.br Ip: legado.vivo 
-Aprovado! Host: continueconectado.vivo.com.br Ip: continueconectado.vivo 
-Aprovado! Host: lojaonline.vivo.com.br Ip: cname.vivo.com.br.  
-Aprovado! Host: vivo360.vivo.com.br Ip: vivo360.vivo 
-Aprovado! Host: sigitm3.vivo.com.br Ip: sigitm3.vivo 
-Aprovado! Host: vivocorp-parceiro.vivo.com.br Ip: vivocorp-parceiro.vivo 
-Aprovado! Host: assine.vivo.com.br Ip: assine.vivo 
-Aprovado! Host: extranet.vivo.com.br Ip: extranet.vivo 
-Aprovado! Host: meuvivo.vivo.com.br  
-Aprovado! Host: extranet.vivo.com.br Ip: extranet.vivo 
-Aprovado! Host: portaljud.vivo.com.br Ip: portaljud.vivo 
-Aprovado! Host: login.vivo.com.br Ip: login.vivo 
-Aprovado! Host: login.vivo.com.br Ip: login.vivo 
-Aprovado! Host: siscom.vivo.com.br Ip: siscom.vivo 
-Aprovado! Host: aceitedigital.vivo.com.br Ip: aceitedigital.vivo 
-Aprovado! Host: login.vivo.com.br Ip: login.vivo 
-Aprovado! Host: meuvivo.vivo.com.br  
-Aprovado! Host: movimenta.vivo.com.br Ip: movimenta.vivo 
-Aprovado! Host: protecao.vivo.com.br Ip: protecao.vivo 
-Aprovado! Host: portaljud.vivo.com.br Ip: portaljud.vivo 
-Aprovado! Host: sigitm3.vivo.com.br Ip: sigitm3.vivo 
-Aprovado! Host: sigitm.vivo.com.br Ip: sigitm.vivo 
-Aprovado! Host: meuvivoapp.vivo.com.br Ip: meuvivoapp.vivo 
-Aprovado! Host: lojaonline.vivo.com.br Ip: cname.vivo.com.br.  
-Aprovado! Host: planos.vivo.com.br Ip: cname.vivo.com.br.  
-Aprovado! Host: www.appstore.vivo.com.br Ip: www.appstore.vivo 
-Aprovado! Host: web.vivo.com.br Ip: web.cname.vivo.com.br.  
-Aprovado! Host: vivovendas.vivo.com.br Ip: vivovendas.vivo 
-Aprovado! Host: oauthtv.vivo.com.br Ip: oauthtv.vivo 
-Aprovado! Host: autenticaint.vivo.com.br Ip: autenticaint.cname.vivo.com.br.  
-Aprovado! Host: assine.vivo.com.br Ip: assine.vivo 
-Aprovado! Host: legado.vivo.com.br Ip: legado.vivo 
-Aprovado! Host: gedoc.vivo.com.br Ip: gedoc.cname.vivo.com.br.  
-Aprovado! Host: meuvivoempresas.vivo.com.br Ip: meuvivoempresas.vivo 
-Aprovado! Host: extranet.vivo.com.br Ip: extranet.vivo 
-Aprovado! Host: vigia.vivo.com.br Ip: vigia.vivo 
-Aprovado! Host: vivo360.vivo.com.br Ip: vivo360.vivo 
-Aprovado! Host: servicos.vivo.com.br Ip: servicos.vivo 
-Aprovado! Host: meuvivofixo.vivo.com.br Ip: meuvivofixo.vivo 
-Aprovado! Host: vivocorp-parceiro.vivo.com.br Ip: vivocorp-parceiro.vivo 
-Aprovado! Host: atendimentoonline.vivo.com.br Ip: atendimentoonline.vivo 
-Aprovado! Host: vpoweb.vivo.com.br Ip: vpoweb.vivo 
-Aprovado! Host: meuvivoempresas.vivo.com.br Ip: meuvivoempresas.vivo 
-Aprovado! Host: assine.vivo.com.br Ip: assine.vivo 
-Aprovado! Host: gedoc.vivo.com.br Ip: gedoc.cname.vivo.com.br.  
-Aprovado! Host: legado.vivo.com.br Ip: legado.vivo 
-Aprovado! Host: vivo360.vivo.com.br Ip: vivo360.vivo 
-Aprovado! Host: sigitm.vivo.com.br Ip: sigitm.vivo 
-Aprovado! Host: planos.vivo.com.br Ip: cname.vivo.com.br.  
-Aprovado! Host: meuvivoempresas.vivo.com.br Ip: meuvivoempresas.vivo 
-Aprovado! Host: sigitm.vivo.com.br Ip: sigitm.vivo 
-Aprovado! Host: meuvivo.vivo.com.br  
-Aprovado! Host: legado.vivo.com.br Ip: legado.vivo 
-Aprovado! Host: portaljud.vivo.com.br Ip: portaljud.vivo 
-Aprovado! Host: lojaonline.vivo.com.br Ip: cname.vivo.com.br.  
-Aprovado! Host: meuvivofixo.vivo.com.br Ip: meuvivofixo.vivo 
-Aprovado! Host: extranet.vivo.com.br Ip: extranet.vivo 
-Aprovado! Host: vivocorp-parceiro.vivo.com.br Ip: vivocorp-parceiro.vivo 
-Aprovado! Host: servicos.vivo.com.br Ip: servicos.vivo 
-Aprovado! Host: web.vivo.com.br Ip: web.cname.vivo.com.br.  
-Aprovado! Host: sigitm3.vivo.com.br Ip: sigitm3.vivo 
-Aprovado! Host: vpoweb.vivo.com.br Ip: vpoweb.vivo 
-Aprovado! Host: www.vivomusica.vivo.com.br Ip: www.vivomusica.vivo 
-Aprovado! Host: vpoweb.vivo.com.br Ip: vpoweb.vivo 
-Aprovado! Host: planos.vivo.com.br Ip: cname.vivo.com.br.  
-Aprovado! Host: web.vivo.com.br Ip: web.cname.vivo.com.br.  
-Aprovado! Host: protecao.vivo.com.br Ip: protecao.vivo 
+13.224.222.1	
+13.224.222.2	
+13.224.222.3
+13.224.222.4	
+13.224.222.5	
+13.224.222.6
+13.224.222.7	
+13.224.222.8	
+13.224.222.9
+13.224.222.10	
+13.224.222.11	
+13.224.222.12
+13.224.222.13	
+13.224.222.14	
+13.224.222.15
+13.224.222.16	
+13.224.222.17	
+13.224.222.18
+13.224.222.19	
+13.224.222.20	
+13.224.222.21
+13.224.222.22	
+13.224.222.23	
+13.224.222.24
+13.224.222.25	
+13.224.222.26	
+13.224.222.27
+13.224.222.28	
+13.224.222.29	
+13.224.222.30
+13.224.222.31	
+13.224.222.32	
+13.224.222.33
+13.224.222.34	
+13.224.222.35	
+13.224.222.36
+13.224.222.37	
+13.224.222.38	
+13.224.222.39
+13.224.222.40	
+13.224.222.41	
+13.224.222.42
+13.224.222.43	
+13.224.222.44	
+13.224.222.45
+13.224.222.46	
+13.224.222.47	
+13.224.222.48
+13.224.222.49	
+13.224.222.50	
+13.224.222.51
+13.224.222.52	
+13.224.222.53	
+13.224.222.54
+13.224.222.151	
+13.224.222.152	
+13.224.222.153
+13.224.222.154	
+13.224.222.155	
+13.224.222.156
+13.224.222.157	
+13.224.222.158	
+13.224.222.159
+13.224.222.160	
+13.224.222.161	
+13.224.222.162
+13.224.222.163	
+13.224.222.164	
+13.224.222.165
+13.224.222.166	
+13.224.222.167	
+13.224.222.168
